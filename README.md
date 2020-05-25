@@ -29,7 +29,7 @@ De weken erna heb ik flink moeten doorpakken op terug op schema te komen. Mijn f
 Het toetsenbord event heb ik ook klikbaar gemaakt zodat deze animatie op tablet en mobiel nogsteeds werkt. Daarnaast zijn de knoppen allemaal groter. Het vliegtuig vult bij mobiel het volledige scherm, om zo de interacties zo simpel en klikbaar mogelijk te maken.
 
 ## Foutje
-Op safari wordt de overlay niet goed gestyled. De opacity en blend-mode werken hier niet. Daarnaast komen de dwarrelende bloemen bij geen van de browsers in beeld. Dit is wel duidelijk te zien in mijn screencast.
+Op safari wordt zowel de overlay als animaties niet goed weergegeven.
 
 ### Desktop versie
 ![](/images/Desktop.png)
