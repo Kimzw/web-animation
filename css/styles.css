@@ -314,10 +314,6 @@ line{
 	width: 100%;
 	animation: bloemen 5s linear infinite;
 	background-image: url("../images/bloempjes.png");
-	-webkit-background-size: cover;
-	-moz-background-size: cover;
-	-o-background-size: cover;
-	background-size: cover;
 }
 
 @keyframes bloemen {
