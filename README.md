@@ -39,3 +39,13 @@ Op safari wordt de overlay niet goed gestyled. De opacity en blend-mode werken h
 
 ### Mobiele versie
 ![](/images/Mobiel.png)
+
+## Bronnen
+### Geschiedenis
+https://en.wikipedia.org/wiki/Airborne_Express
+
+### Code
+Jaartal
+https://codepen.io/ohippyday/pen/bpvejR
+Bloemen
+https://codepen.io/meuwka/pen/WoBwRB
