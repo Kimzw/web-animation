@@ -1,8 +1,8 @@
 # Airborne Express 1992
-![](Code/images/airborne-express-1992.jpg)
+![](/images/airborne-express-1992.jpg)
 
 ## Link naar website
-https://kimzw.github.io/web-animation-19-20/
+
 
 ## Onderbouwing keuze
 Vliegen zit bij mij in de familie, mijn vader zit in de luchtvaart. Dit is dan ook de reden dat ik voor het kunstwerk *Airborne Express 1992 Annual Report* heb gekozen. In dit kunstwerk zag ik allerlei mogelijkheden om in een animatie te kunnen verwerken. Het origineel heeft een oude look and feel en deze wilde ik er inhouden. Dit heb ik kunnen doen door een grijs-achtige overlay er over heen te kunnen zetten.
@@ -29,10 +29,10 @@ De weken erna heb ik flink moeten doorpakken op terug op schema te komen. Mijn f
 Het toetsenbord event heb ik ook klikbaar gemaakt zodat deze animatie op tablet en mobiel nogsteeds werkt. Daarnaast zijn de knoppen allemaal groter. Het vliegtuig vult bij mobiel het volledige scherm, om zo de interacties zo simpel en klikbaar mogelijk te maken.
 
 ### Desktop versie
-![](Code/images/Desktop.png)
+![](/images/Desktop.png)
 
 ### Tablet versie
-![](Code/images/Tablet.png)
+![](/images/Tablet.png)
 
 ### Mobiele versie
-![](Code/images/Mobiel.png)
+![](/images/Mobiel.png)
