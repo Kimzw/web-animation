@@ -313,7 +313,7 @@ line{
 	top: 0;
 	width: 100%;
 	animation: bloemen 5s linear infinite;
-    background-image: srv ("/images/bloempjes.png");
+	background-image: url ("/images/bloempjes.png");
 }
 
 @keyframes bloemen {
